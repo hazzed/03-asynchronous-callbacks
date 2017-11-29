@@ -1,0 +1,22 @@
+{
+  "name": "03-asynchronous-callbacks",
+  "version": "1.0.0",
+  "description": "03 Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazzed/03-asynchronous-callbacks.git"
+  },
+  "author": "Dalton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazzed/03-asynchronous-callbacks/issues"
+  },
+  "homepage": "https://github.com/hazzed/03-asynchronous-callbacks#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
